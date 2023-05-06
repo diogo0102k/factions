@@ -8,10 +8,10 @@ api:
 - 2.0.0
 commands:
   guilda:
-    description: use /guilda help para Listar os Comandos De Guilda
+    description: use /guilda ajuda para Listar os Comandos De Guilda
     permission: f.command
   g:
-    description: use /g help Para Listar os Comandos de Guilda
+    description: use /g ajuda Para Listar os Comandos de Guilda
     permission: f.command
 permissions:
   f.command:
